@@ -59,11 +59,11 @@ if selected_menu == "전기차 연도별 변화 추이":
     region_data = yearly_data[selected_year]
     st.subheader(f"📊 {selected_year}년 지역별 전기차 등록 대수")
     st.bar_chart(region_data)
-    show_trend = st.checkbox("📈 지역별 연도 추이 보기")
-    if show_trend:
-        selected_region = st.selectbox("지역 선택", regions)
+    #show_trend = st.checkbox("📈 지역별 연도 추이 보기")
+    #if show_trend:
+    selected_region = st.selectbox("지역 선택", regions)
     # 꺾은선 그래프 (조건부)
-    if show_trend and selected_region:
-        trend_data = {year: yearly_data[year].get(selected_region, 0) for year in sorted(yearly_data.keys())}
-        st.subheader(f"📈 {selected_region}의 연도별 등록 변화")
-        st.line_chart(trend_data)
+    #if show_trend and selected_region:
+    trend_data = {year: yearly_data[year].get(selected_region, 0) for year in sorted(yearly_data.keys())}
+    st.subheader(f"📈 {selected_region}의 연도별 등록 변화")
+    st.line_chart(trend_data)
