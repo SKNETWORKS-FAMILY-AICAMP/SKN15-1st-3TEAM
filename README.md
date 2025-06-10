@@ -2,7 +2,7 @@
 
 # 1. 팀 소개
 
-- 팀명 : 내 차 3조
+## 팀명 : 내 차 3조
 
 ### 📌 팀 멤버
 | 김민규 | 유의정 | 이은진 | 정민철 | 하다현 |
@@ -12,9 +12,6 @@
 | Project Leader | Crawling,Streamlit | Crawling,Streamlit | Crawling,Streamlit | Crawling,Streamlit |
 
 
-- 멤버 개인 깃허브 계정과 연동
-
- 
 
 # 2. 프로젝트 개요
 
@@ -31,23 +28,19 @@
 
 # 3. 기술 스택
 
- 
+ - Language: Python
+ - Data Analysis: pandas
+ - Data Visualization: folium, streamlit_folium, plotly.express
+ - Web Scraping: selenium, BeautifulSoup, requests
+ - DB : pymysql, SQLAlchemy, webdriver-manager, streamlit
 
-# 4. 요구사항 명세서
-
- 
-
-# 5. ERD
+# 4. ERD
 
  ![image](https://github.com/user-attachments/assets/066b9ccc-b8ac-455c-8d47-93c36d9d062f)
 
-
-# 6. 주요 프로시저
+ 
+# 5. 수행결과(테스트/시연 페이지)
 
  
 
-# 7. 수행결과(테스트/시연 페이지)
-
- 
-
-# 8. 한 줄 회고
+# 6. 한 줄 회고
