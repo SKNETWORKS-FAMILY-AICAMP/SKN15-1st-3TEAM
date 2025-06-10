@@ -1,13 +1,15 @@
 import streamlit as st
+from sqlalchemy import create_engine
 import pandas as pd
+import plotly.express as px
+
+# DB 연결 엔진 생성
+engine = create_engine("mysql+pymysql://team_3:123@192.168.0.22:3306/sk15_3team")
 
 st.title("전기차 보조금 데이터")
 
-# CSV 파일 경로
-file_path = 'subsidy_data.csv'
-
-# CSV 파일 읽기
-df = pd.read_csv(file_path)
+# DB에서 데이터 읽기
+df = pd.read_sql("SELECT * FROM subsidy_data", engine)
 
 # 사용자 입력
 input_value = st.text_input("검색어 입력 (지역명, 차종, 제조사)")
@@ -33,3 +35,10 @@ if input_value:
 st.write("[ 전기차 보조금 전체 데이터 ]")
 # 전체 데이터 표시 (선택사항)
 st.dataframe(df)
+
+
+
+
+
+
+
