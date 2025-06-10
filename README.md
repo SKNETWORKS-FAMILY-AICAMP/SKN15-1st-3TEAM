@@ -40,7 +40,15 @@
 
  
 # 5. 수행결과(테스트/시연 페이지)
-![전기차 시각화 4분할 이미지](https://user-images.githubusercontent.com/Playdata/combined_4grid_image)
+| 메인홈 | 전기차 연도별 변화 추이 | 
+|--|--|
+| ![image](https://github.com/user-attachments/assets/1ededa9d-71ba-45d6-a564-def4e8b07517) | ![image](https://github.com/user-attachments/assets/1b0cb941-711d-477f-a6ba-b4d4571d81b6) |
+| 전기차 가격 조회 | 전기차 보조금 조회 |
+| ![image](https://github.com/user-attachments/assets/7e7ebade-e07d-4cf3-a3e0-084f29e805b0) | ![image](https://github.com/user-attachments/assets/33b7e33f-3380-44f5-8bf5-d8a46d49aba1) |
+| 전기차 충전소 지도보기 | 전기차 충전소 검색 |
+|  |  |
+| 전기차 FAQ | |
+| ![image](https://github.com/user-attachments/assets/8deadb7d-1377-4a2f-ac33-bd83a7f77c29) | 
  
 
 # 6. 한 줄 회고
