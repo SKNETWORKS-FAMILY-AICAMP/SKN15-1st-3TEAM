@@ -40,7 +40,7 @@
 
  
 # 5. 수행결과(테스트/시연 페이지)
-
+![image](C:\Users\Playdata\Downloads\combined_4grid_image.png)
  
 
 # 6. 한 줄 회고
