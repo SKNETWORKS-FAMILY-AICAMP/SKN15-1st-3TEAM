@@ -40,7 +40,7 @@
 
  
 # 5. 수행결과(테스트/시연 페이지)
-![전기차 시각화 4분할 이미지](https://user-images.githubusercontent.com/Playdata/combined_4grid_image.png.png)
+![전기차 시각화 4분할 이미지](https://user-images.githubusercontent.com/Playdata/combined_4grid_image)
  
 
 # 6. 한 줄 회고
