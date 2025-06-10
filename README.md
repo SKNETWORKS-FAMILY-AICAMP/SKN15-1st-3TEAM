@@ -40,8 +40,7 @@
 
  
 # 5. 수행결과(테스트/시연 페이지)
-![image](![combined_4grid_image](https://github.com/user-attachments/assets/f7eb7d90-deb0-4609-a94e-ff0b2135bf63)
-)
+![전기차 시각화 4분할 이미지](https://user-images.githubusercontent.com/사용자ID/이미지이름.png)
  
 
 # 6. 한 줄 회고
