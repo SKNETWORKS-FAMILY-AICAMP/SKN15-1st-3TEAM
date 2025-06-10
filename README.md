@@ -36,7 +36,8 @@
 
 # 4. ERD
 
- ![image](https://github.com/user-attachments/assets/066b9ccc-b8ac-455c-8d47-93c36d9d062f)
+![image](https://github.com/user-attachments/assets/0901f7a3-b7bd-4eaa-a716-346444330f27)
+
 
  
 # 5. 수행결과(테스트/시연 페이지)
