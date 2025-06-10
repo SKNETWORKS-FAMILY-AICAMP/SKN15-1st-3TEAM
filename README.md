@@ -8,7 +8,8 @@
 | 김민규 | 유의정 | 이은진 | 정민철 | 하다현 |
 |--|--|--|--|--|
 | @kmklifegk | @Rr-EJ | @eeyeeossse | @jeong-mincheol | @dahyun11 |
-| ![mk](https://github.com/user-attachments/assets/88a5cbc0-764e-408e-b369-d38adfc5b3c2) | ![ej22](https://github.com/user-attachments/assets/67abb151-4ebd-4e01-884b-14ce3ae8f2d5) | ![dh](https://github.com/user-attachments/assets/0fb8ff80-be1b-4c75-b16a-60bec0170604) | ![ej33](https://github.com/user-attachments/assets/689b44a2-651b-40a4-938a-b3a8d81b05a3) | ![ej2](https://github.com/user-attachments/assets/bce86c40-b3c4-436a-b8a0-d39e7c2c561d) |
+| ![resized_image_1](https://github.com/user-attachments/assets/0eeea611-0579-4055-9538-0bf37fc0fd2a) | ![resized_image_5](https://github.com/user-attachments/assets/69a25278-d157-4a43-a783-f4c6256251c2) | ![resized_image_2](https://github.com/user-attachments/assets/507b6366-9f14-43b9-888b-98479b33468a) |![resized_image_3](https://github.com/user-attachments/assets/e8d894ad-ca30-4403-a943-25f7e47a04a0) | ![resized_image_4](https://github.com/user-attachments/assets/bc5372c1-8751-48a9-b305-b0bdc165c40e)
+ |
 | Project Leader | Crawling | Crawling | Streamlit | Streamlit |
 
 
