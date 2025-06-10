@@ -4,6 +4,19 @@
 
 - 팀명 : 내 차 3조
 
+### 📌 팀 멤버
+| 김민규 | 유의정 | 이은진 | 정민철 | 하다현 |
+|--|--|--|--|--|
+| @kmklifegk | @Rr-EJ | @eeyeeossse | @jeong-mincheol | @dahyun11 |
+| ![mk](https://github.com/user-attachments/assets/88a5cbc0-764e-408e-b369-d38adfc5b3c2)
+ | ![mc](https://github.com/user-attachments/assets/e4a28f5f-a385-4d9c-b750-a223d7c1f24f)
+ | ![dh](https://github.com/user-attachments/assets/0fb8ff80-be1b-4c75-b16a-60bec0170604)
+ | ![ej](https://github.com/user-attachments/assets/520827e2-a87a-4ffe-8554-0724c5e7da5d)
+ | ![ej2](https://github.com/user-attachments/assets/bce86c40-b3c4-436a-b8a0-d39e7c2c561d)
+ |
+| Project Leader | Crawling | Crawling | Streamlit | Streamlit |
+
+
 - 멤버 개인 깃허브 계정과 연동
 
  
