@@ -17,7 +17,7 @@
 
 - 프로젝트 명 : 전국 전기자동차 등록 현황 및 FAQ 조회시스템 
 
-- 프로젝트 소개 : 전기자동차 등록 현황, 전기자동차 차량 정보 및 구매보조금 확인, 전기차 충전소 위치기반, 전기차 FAQ
+- 프로젝트 소개 : 전기자동차 등록 현황, 전기자동차 차량 정보 및 구매보조금 확인, 전기차 충전소 정보, 전기차 FAQ
 
 - 프로젝트 필요성(배경)
   친환경 전기차 이용률이 늘어남에 따라 전기차 관련 데이터를 제공함으로써 전기차 구매 및 사용에 도움을 제공하고자 함
@@ -46,10 +46,6 @@
 | ![image](https://github.com/user-attachments/assets/1ededa9d-71ba-45d6-a564-def4e8b07517) | ![image](https://github.com/user-attachments/assets/1b0cb941-711d-477f-a6ba-b4d4571d81b6) |
 | 전기차 가격 조회 | 전기차 보조금 조회 |
 | ![image](https://github.com/user-attachments/assets/7e7ebade-e07d-4cf3-a3e0-084f29e805b0) | ![image](https://github.com/user-attachments/assets/33b7e33f-3380-44f5-8bf5-d8a46d49aba1) |
-| 전기차 충전소 지도보기 | 전기차 충전소 검색 |
-|  |  |
-| 전기차 FAQ | |
-| ![image](https://github.com/user-attachments/assets/8deadb7d-1377-4a2f-ac33-bd83a7f77c29) | 
+| 전기차 충전소 검색 | 전기차 FAQ |
+| ![image](https://github.com/user-attachments/assets/f9b86a86-bb33-4450-ad7a-9284750d544c) | ![image](https://github.com/user-attachments/assets/8deadb7d-1377-4a2f-ac33-bd83a7f77c29) 
  
-
-# 6. 한 줄 회고
